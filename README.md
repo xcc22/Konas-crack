@@ -10,3 +10,6 @@ Add -noverify to your minecraft launch parameters (don't know how to do that? To
 Start the game
 
 If you somehow fuck up the instructions then a message box will appear telling you exactly what did you fuck up
+
+for forge 1.12.2
+
